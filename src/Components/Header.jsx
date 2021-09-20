@@ -2,7 +2,7 @@ import React from 'react'
 
 function Header(){
     return (
-        <nav className="bg-gray-600 flex p-3 justify-between items-center">
+        <nav className="bg-gray-600 top-0 w-full fixed flex p-3 justify-between items-center">
 
                 <a href="iService" className="bg-gray-900 text-white px-3 py-2 rounded-md text-sm font-medium" aria-current="page">IService</a>
 
