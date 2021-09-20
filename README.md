@@ -7,7 +7,7 @@
 * [FontAwesome][3] - for icons 
 
 ## ScreenShots
-|<img src="screenshots/2.png" width=500/>|
+|<img src="screenshots/2.png"/>|
 |:--:|
 
 
